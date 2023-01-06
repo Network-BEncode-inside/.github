@@ -27,12 +27,19 @@ This organization includes simple tools for P2P files.
 
 * [ctorrent](https://github.com/Network-BEncode-inside/ctorrent):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Network-BEncode-inside/ctorrent)
+![GitHub](https://img.shields.io/github/license/Network-BEncode-inside/ctorrent)
 * [mag2tor](https://github.com/Network-BEncode-inside/mag2tor):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Network-BEncode-inside/mag2tor)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Network-BEncode-inside/mag2tor)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Network-BEncode-inside/mag2tor)
 ![GitHub all releases](https://img.shields.io/github/downloads/Network-BEncode-inside/mag2tor/total)
 ![GitHub](https://img.shields.io/github/license/Network-BEncode-inside/mag2tor)
+* [ncdc](https://github.com/Network-BEncode-inside/ncdc):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Network-BEncode-inside/ncdc)
+![GitHub Release Date](https://img.shields.io/github/release-date/Network-BEncode-inside/ncdc)
+![GitHub repo size](https://img.shields.io/github/repo-size/Network-BEncode-inside/ncdc)
+![GitHub all releases](https://img.shields.io/github/downloads/Network-BEncode-inside/ncdc/total)
+![GitHub](https://img.shields.io/github/license/Network-BEncode-inside/ncdc)
 * [torreadwrite](https://github.com/Network-BEncode-inside/torreadwrite):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Network-BEncode-inside/torreadwrite)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Network-BEncode-inside/torreadwrite)
@@ -41,3 +48,11 @@ This organization includes simple tools for P2P files.
 ![GitHub](https://img.shields.io/github/license/Network-BEncode-inside/torreadwrite)
 * [torrent-file-reader](https://github.com/Network-BEncode-inside/torrent-file-reader):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Network-BEncode-inside/torrent-file-reader)
+![GitHub](https://img.shields.io/github/license/Network-BEncode-inside/torrent-file-reader)
+* [torrentcheck](https://github.com/Network-BEncode-inside/torrentcheck):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Network-BEncode-inside/torrentcheck)
+![GitHub Release Date](https://img.shields.io/github/release-date/Network-BEncode-inside/torrentcheck)
+![GitHub repo size](https://img.shields.io/github/repo-size/Network-BEncode-inside/torrentcheck)
+![GitHub all releases](https://img.shields.io/github/downloads/Network-BEncode-inside/torrentcheck/total)
+![GitHub](https://img.shields.io/github/license/Network-BEncode-inside/torrentcheck)
+
